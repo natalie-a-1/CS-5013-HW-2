@@ -47,10 +47,6 @@ A step-by-step series of examples that tell you how to get a development environ
 
 The script can be executed with Python 3.x, and it will read the provided `CreditCard.csv`, process the data, and run the genetic algorithm to find the optimal weights for credit approval prediction. The results will be displayed in the console and as a plot showing the evolution of the error rate across generations.
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/yourusername/credit-approval-ga/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Authors
 
 - **Natalie Hill**
